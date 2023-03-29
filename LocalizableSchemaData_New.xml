@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WorkspaceLocalizableSchemasData>
+	<SchemaData UId="07dc92ca-90e6-46c5-a509-8f5bfa91e42e" Name="Feature_ForecastAutoCalculation" SchemaUId="28f8de6e-0c1e-4100-a868-11c6b934575f" SchemaName="Feature">
+		<Row Id="0e1d8369-8eb8-47e8-802a-5368f4806035">
+			<Column Id="0e1d8369-8eb8-47e8-802a-5368f4806035.Description" Name="Description" Value="Auto calculation forecasts functionality"/>
+			<Column Id="0e1d8369-8eb8-47e8-802a-5368f4806035.Name" Name="Name" Value="ForecastAutoCalculation"/>
+			<Column Id="0e1d8369-8eb8-47e8-802a-5368f4806035.Date" Name="Name" Value="ForecastAutoCalculations"/>
+		</Row>
+	</SchemaData>
+	<SchemaData Uid="193aa83c-c741-4967-8e75-5e1c606518f8" Name="CampaignFolder_l1" SchemaUid="e3693e1f-40f7-44e2-a6c9-0fa2206059d0" SchemaName="CampaignFolder">
+		<Row Id="bc4b4d0b-156b-4a94-8de8-e51aab4afcb0">
+			<Column Id="bc4b4d0b-156b-4a94-8de8-e51aab4afcb0.Name" Name="Name" Value="By status" />
+		</Row>
+	</SchemaData>
+	<SchemaData Uid="f54b702a-0106-0b8b-d52c-cb63047d6212" Name="SysSettings_S3FilePartSize" SchemaUid="27aeadd6-d508-4572-8061-5b55b667c902" SchemaName="SysSettings">
+		<Row Id="7e066d40-02f8-4927-8b2d-2d42f34f31a6">
+			<Column Id="7e066d40-02f8-4927-8b2d-2d42f34f31a7.Name" Name="Name" Value="S3 file part size" />
+			<Column Id="7e066d40-02f8-4927-8b2d-2d42f34f31a6.Description" Name="Description" Value="File upload part size in megabytes. Caution: do not set this value less then 5" />
+		</Row>
+	</SchemaData>
+</WorkspaceLocalizableSchemasData>
