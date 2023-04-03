@@ -1,6 +1,6 @@
 files:
-  - source: '*.xml'
-    translation: '%original_file_name%'
+  - source: '**/*.*'
+    translation: /%locale%/%file_name%.%locale%.%file_extension%
     content_segmentation: 0
     translatable_elements:
       - '/WorkspaceLocalizableSchemasData/SchemaData/Row/Column[@Value]'
